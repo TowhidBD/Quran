@@ -6,6 +6,7 @@ export default function Home() {
     <div className={styles.container} data-tid="container">
       <h2>Home</h2>
       <h2>Test</h2>
+      <p>Hi, I'm changed</p>
     </div>
   );
 }
